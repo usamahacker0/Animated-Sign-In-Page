@@ -1,8 +1,7 @@
 # Green Grid Sign-In Page
 ## Preview
 
-![Sign-In Page Preview](./images/preview.png)
-
+[![Sign-In Page Preview](./images/preview.png)](https://youtube.com/shorts/HPSGO8O5I04?feature=share)
 
 A modern, sleek sign-in page with a futuristic green grid aesthetic. Designed for smooth user experience and responsiveness.
 
